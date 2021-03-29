@@ -1,0 +1,110 @@
+#obal {
+background-color: #EEEEEE;
+text-align: justify;
+width: 1000px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+#hlavicka {
+    height: 350px;
+    width: 550px;
+    background-image: url(img/robot.png);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    background-position: bottom left;
+    border-bottom: black solid 3px;
+    text-align: right;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-right: 50px;
+    
+}
+
+#blok {
+    position: relative;
+    padding: 10px;
+    margin: 15px;
+
+}
+
+.sloupec_jedna {
+width: 470px;
+position: relative;
+float: right;
+background-color: white;
+text-align: center;
+margin-top: 20px;
+
+}
+
+.sloupec_dva {
+width: 470px;
+position: relative;
+float: left;
+text-align: center;
+background-color: gray;
+margin-top: 20px;
+
+}
+
+#pata{
+    padding-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    height: 30px;
+    clear: both;
+
+  }
+
+  .odkaz_one{
+      position: relative;
+      margin-right: 50px;
+      text-decoration: none;
+      color: red;
+      
+  }
+
+  .odkaz_two{
+    position: relative;
+    margin-right: 50px;
+    text-decoration: none;
+    color: red;
+}
+
+.odkaz_three{
+    position: relative;
+    margin-right: 50px;
+    text-decoration: none;
+    color: red;
+}
+
+.odkaz_four{
+    position: relative;
+    margin-right: 50px;
+    text-decoration: none;
+    color: red;
+}
+
+.odkaz_five{
+    position: relative;
+    margin-right: 50px;
+    text-decoration: none;
+    color: red;
+}
+
+  h1 {
+      font-size: 40px;
+      text-align: center;
+  }
+
+  h2 {
+      font-size: 25px;
+      text-align: center;
+  }
+
+  h3 {
+      font-size: 25px;
+      text-align: left;
+  }
